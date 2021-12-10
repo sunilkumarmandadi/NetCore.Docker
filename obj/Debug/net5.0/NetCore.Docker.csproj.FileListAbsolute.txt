@@ -1,0 +1,16 @@
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\NetCore.Docker.exe
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\NetCore.Docker.deps.json
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.json
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.dev.json
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\NetCore.Docker.dll
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\ref\NetCore.Docker.dll
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\bin\Debug\net5.0\NetCore.Docker.pdb
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.csproj.AssemblyReference.cache
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfoInputs.cache
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfo.cs
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.dll
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\ref\NetCore.Docker.dll
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.pdb
+C:\SUNIL\Practise\DOCKER - Examples\.NetCoreDocker\App\obj\Debug\net5.0\NetCore.Docker.genruntimeconfig.cache
